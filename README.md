@@ -14,8 +14,8 @@ https://hub.docker.com/r/gershona/t-rex
 ## Build images
 
 ```
-git clone git remote add origin https://github.com/Gershon-A/docker-trexminer.git
-cd docker-trexminer
+git clone git remote add origin https://github.com/cyberindo233/trexminer.git
+cd trexminer
 docker build -t cuda-t-rex:latest .
 ```
 
